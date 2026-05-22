@@ -11,6 +11,11 @@ To make this work for you, you will need a .txt file with your resume with its m
 
 GROQ_API_KEY=your_key_here
 
+Scrapes
+<img width="931" height="618" alt="Screenshot 2026-05-22 164006" src="https://github.com/user-attachments/assets/f822f668-0c32-4c24-b60a-520b9541cf26" />
 
 
 
+
+Makes the AI scoring
+<img width="1096" height="671" alt="Screenshot 2026-05-22 164151" src="https://github.com/user-attachments/assets/807581c6-6f4f-4271-9f0d-4362f4cce1b2" />
